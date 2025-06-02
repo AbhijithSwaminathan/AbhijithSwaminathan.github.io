@@ -1,0 +1,43 @@
+.highlight-k8s {
+  background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-1&color=326CE588);
+  margin: -2px -6px;
+  padding: 2px 6px;
+}
+
+.highlight-go {
+  background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-2&color=00ADD888);
+  margin: -2px -6px;
+  padding: 2px 6px;
+}
+
+.highlight-react {
+  background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-3&color=61DBFB88);
+  margin: -2px -6px;
+  padding: 2px 6px;
+}
+
+.highlight-python {
+  background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-3&color=FFD43B88);
+  margin: -2px -6px;
+  padding: 2px 6px;
+}
+
+.highlight-figma {
+  background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-2&color=F24E1E88);
+  margin: -2px -6px;
+  padding: 2px 6px;
+}
+
+.threads-icon {
+  width: 20px;
+  height: 20px;
+  background-color: oklch(0.554 0.046 257.417);
+  -webkit-mask-image: url("/assets/image/threads.svg");
+  mask-image: url("/assets/image/threads.svg");
+  mask-size: cover;
+  -webkit-mask-size: cover;
+  transition: background-color 0.5s;
+}
+.threads-icon:hover {
+  background-color: oklch(0.279 0.041 260.031);
+}
